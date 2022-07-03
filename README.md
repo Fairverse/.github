@@ -1,44 +1,44 @@
-## <font color="pink">Engelsiz Adil Evren (Fairverse):blush:
+## <font color="pink">Engelsiz Adil Evren (Fairverse)  </font>:blush:
 <img src="source/MiE logo.png" width="200">
 
 
-## <font color="RED"> Biz Kimiz? :blush:
+## <font color="RED"> Biz Kimiz?  </font> :blush:
 
 
 
-#### <font color= "BLACK" > Bizler Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği öğrencileri olarak halihazırda yazılım dillerini öğrenen ve öğrenmeye devam eden, teknoloji meraklısı gençleriz. Yeni teknolojilere açığız ve geleceğe yön vermek istiyoruz. Okulumuzda bulunan Metaverse Araştırma Grubu (MvRG) ile son günlerde revaçta olan metaverse konusunda kendimizi geliştiriyoruz. Takım olarak amacımız; metaverse kavramını kullanarak hayatımızı kolaylaştıracak teknolojik ve yenilikçi içeriklere sahip projelere imza atmaktır. Bu açıdan sosyal faydayı gözeten ve engelli bireylerin erişebilirliklerini arttırabilecek bir proje fikri bizi heyecanlandırıyor.
+#### <font color= "BLACK" > Bizler Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği öğrencileri olarak halihazırda yazılım dillerini öğrenen ve öğrenmeye devam eden, teknoloji meraklısı gençleriz. Yeni teknolojilere açığız ve geleceğe yön vermek istiyoruz. Okulumuzda bulunan Metaverse Araştırma Grubu (MvRG) ile son günlerde revaçta olan metaverse konusunda kendimizi geliştiriyoruz. Takım olarak amacımız; metaverse kavramını kullanarak hayatımızı kolaylaştıracak teknolojik ve yenilikçi içeriklere sahip projelere imza atmaktır. Bu açıdan sosyal faydayı gözeten ve engelli bireylerin erişebilirliklerini arttırabilecek bir proje fikri bizi heyecanlandırıyor.  </font>
 
 #
 
-## <font color="RED"> Ekip Üyelerimiz :blush:
+## <font color="RED"> Ekip Üyelerimiz  </font>:blush:
 
 
-###  <font color="black"> Reyhan Duygu - Bilgisayar Mühendisliği Öğrencisi      
+###  <font color="black"> Reyhan Duygu - Bilgisayar Mühendisliği Öğrencisi  </font>      
 <img src="source/fotoğrafım.jpg" width="150">
 
-###  <font color="black"> Hakkıcan Bülüç - Bilgisayar Mühendisliği Öğrencisi      
+###  <font color="black"> Hakkıcan Bülüç - Bilgisayar Mühendisliği Öğrencisi  </font>     
 <img src="source/hakkı.jpg" width="150">
 
-###  <font color="black"> Enes Atalay - Bilgisayar Mühendisliği Öğrencisi     
+###  <font color="black"> Enes Atalay - Bilgisayar Mühendisliği Öğrencisi   </font>   
 <img src="source/enes.jpg" width="150">
 
 #
-## <font color="red"> Danışman Hocamız :blush:
+## <font color="red"> Danışman Hocamız  </font> :blush:
 #
-### <font color="black"> Dr. Enis Karaarslan
+### <font color="black"> Dr. Enis Karaarslan  </font>
 <img src="source/enishoca.jpg" width="150">
 
 #
 
-## <font color= "RED"> Projenin Amacı :smirk:
-#### <font color="black">Sahip olduğu rahatsızlıklardan dolayı hareket edemeyen insanların; engelsiz bir şekilde yaşamıdeneyim etmeleri amaçlanmaktadır. Hedef kullanıcılar; fiziksel engele sahip olup konuşma ve görme yeteneğine sahip bireylerdir. Engelsiz Adil Evren projemiz ile bu fiziksel engele sahip bireylerin erişebilirliklerini arttırmanın ve kendilerine ait bir ortam oluşturmalarının sağlanması hedeflenmektedir. Bunun için oluşturulacak sanal ortamda; engelsiz avatarların sesli komutlarla hareket edebilmeleri hedeflenecektir. Arayüzün; fiziksel engele sahip bireylerin oturarak ya da uzanarak kullanabilecekleri biçimde olmasına ve kullanımın kolaylığına dikkat edilecektir. 
+## <font color= "RED"> Projenin Amacı </font> :smirk:
+#### <font color="black">Sahip olduğu rahatsızlıklardan dolayı hareket edemeyen insanların; engelsiz bir şekilde yaşamıdeneyim etmeleri amaçlanmaktadır. Hedef kullanıcılar; fiziksel engele sahip olup konuşma ve görme yeteneğine sahip bireylerdir. Engelsiz Adil Evren projemiz ile bu fiziksel engele sahip bireylerin erişebilirliklerini arttırmanın ve kendilerine ait bir ortam oluşturmalarının sağlanması hedeflenmektedir. Bunun için oluşturulacak sanal ortamda; engelsiz avatarların sesli komutlarla hareket edebilmeleri hedeflenecektir. Arayüzün; fiziksel engele sahip bireylerin oturarak ya da uzanarak kullanabilecekleri biçimde olmasına ve kullanımın kolaylığına dikkat edilecektir.  </font>
 
 #
-## <font color= "RED"> Neler Yaptık? :smirk:
+## <font color= "RED"> Neler Yaptık?  </font>:smirk:
 
 
 
-### <font color= "RED"> Animasyonlar
+### <font color= "RED"> Animasyonlar </font>
 
 [Sağa Dönme Animasyonu](https://youtu.be/0h8hvZsVoZ8 "Sağa dönme animasyonu")
 
@@ -50,7 +50,7 @@
 
 [El Sallama Animasyonu](https://youtu.be/kql0C48YUuI "El sallama animasyonu")
 
-### Sanal Ayna Prototipimiz
+### <font color= "BLACK" >Sanal Ayna Prototipimiz </font>
 <img src="source/MiE ayna.png" width="250">
 
 ### Uygulama Çıktımız
