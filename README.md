@@ -13,13 +13,13 @@
 ## <font color="RED"> EKİP ÜYELERİMİZ :blush:
 
 
-###  <font color="black"> REYHAN DUYGU -BİLGİSAYAR MÜHENDİSLİĞİ 1.SINIF       
+###  <font color="black"> REYHAN DUYGU -BİLGİSAYAR MÜHENDİSLİĞİ ÖĞRENCİSİ      
 <img src="source/fotoğrafım.jpg" width="150">
 
-###  <font color="black"> HAKKICAN BÜLÜÇ -BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF       
+###  <font color="black"> HAKKICAN BÜLÜÇ -BİLGİSAYAR MÜHENDİSLİĞİ ÖĞRENCİSİ      
 <img src="source/hakkı.jpg" width="150">
 
-###  <font color="black"> ENES ATALAY -BİLGİSAYAR MÜHENDİSLİĞİ 2.SINIF        
+###  <font color="black"> ENES ATALAY -BİLGİSAYAR MÜHENDİSLİĞİ ÖĞRENCİSİ     
 <img src="source/enes.jpg" width="150">
 
 #
