@@ -1,17 +1,6 @@
 ## <font color="pink">Engelsiz Adil Evren (Fairverse):blush:
-## <font color= "RED"> ANİMASYONLAR
-[SAĞA DÖNME ANİMASYONU](https://youtu.be/0h8hvZsVoZ8 "Sağa dönme animasyonu")
+<img src="source/MiE logo.png" width="200">
 
-[SOLA DÖNME ANİMASYONU](https://youtu.be/IZbs8mHMog4 "Sola dönme animasyonu")
-
-[İLERİ GİTME ANİMASYONU](https://youtu.be/_WZcwKDqFUA "İleri gitme animasyonu")
-
-[DÖNME ANİMASYONU](https://youtu.be/NYCwgUyq0I8 "Dönme animasyonu")
-
-[EL SALLAMA ANİMASYONU](https://youtu.be/kql0C48YUuI "El sallama animasyonu")
-
-
-#
 
 ## <font color="RED"> BİZ KİMİZ? :blush:
 
@@ -39,3 +28,33 @@
 ### <font color="black"> DR. ENİS KARAARSLAN
 <img src="source/enishoca.jpg" width="150">
 
+#
+
+## <font color= "RED"> PROJENİN AMACI :smirk:
+#### <font color="black">Sahip olduğu rahatsızlıklardan dolayı hareket edemeyen insanların; engelsiz bir şekilde yaşamıdeneyim etmeleri amaçlanmaktadır. Hedef kullanıcılar; fiziksel engele sahip olup konuşma ve görme yeteneğine sahip bireylerdir. Engelsiz Adil Evren projemiz ile bu fiziksel engele sahip bireylerin erişebilirliklerini arttırmanın ve kendilerine ait bir ortam oluşturmalarının sağlanması hedeflenmektedir. Bunun için oluşturulacak sanal ortamda; engelsiz avatarların sesli komutlarla hareket edebilmeleri hedeflenecektir. Arayüzün; fiziksel engele sahip bireylerin oturarak ya da uzanarak kullanabilecekleri biçimde olmasına ve kullanımın kolaylığına dikkat edilecektir. 
+
+#
+## <font color= "RED"> NELER YAPTIK? :smirk:
+
+
+
+### <font color= "RED"> ANİMASYONLAR
+
+[SAĞA DÖNME ANİMASYONU](https://youtu.be/0h8hvZsVoZ8 "Sağa dönme animasyonu")
+
+[SOLA DÖNME ANİMASYONU](https://youtu.be/IZbs8mHMog4 "Sola dönme animasyonu")
+
+[İLERİ GİTME ANİMASYONU](https://youtu.be/_WZcwKDqFUA "İleri gitme animasyonu")
+
+[DÖNME ANİMASYONU](https://youtu.be/NYCwgUyq0I8 "Dönme animasyonu")
+
+[EL SALLAMA ANİMASYONU](https://youtu.be/kql0C48YUuI "El sallama animasyonu")
+
+### SANAL AYNA PROTOTİPİMİZ
+<img src="source/MiE ayna.png" width="250">
+
+### UYGULAMA ÇIKTIMIZ
+<img src="source/mie-pc.png" width="250">
+
+### MENÜ EKRANIMIZ
+<img src="source/menü.jpg" width="250">
