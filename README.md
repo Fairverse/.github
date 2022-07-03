@@ -21,9 +21,8 @@
 
 #
 
-## <font color="RED"> EKİP ÜYELERİMİZ
+## <font color="RED"> EKİP ÜYELERİMİZ :blush:
 
-#
 
 ###  <font color="black"> REYHAN DUYGU -BİLGİSAYAR MÜHENDİSLİĞİ 1.SINIF       
 <img src="source/fotoğrafım.jpg" width="150">
