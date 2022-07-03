@@ -3,7 +3,7 @@
 
 #
 
-### <font color= "BLACK"> Bizler Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği öğrencileri olarak halihazırda yazılım dillerini öğrenen ve öğrenmeye devam eden, teknoloji meraklısı gençleriz. Yeni teknolojilere açığız ve geleceğe yön vermek istiyoruz. Okulumuzda bulunan Metaverse Araştırma Grubu (MvRG) ile son günlerde revaçta olan metaverse konusunda kendimizi geliştiriyoruz. Takım olarak amacımız; metaverse kavramını kullanarak hayatımızı kolaylaştıracak teknolojik ve yenilikçi içeriklere sahip projelere imza atmaktır. Bu açıdan sosyal faydayı gözeten ve engelli bireylerin erişebilirliklerini arttırabilecek bir proje fikri bizi heyecanlandırıyor.
+#### <font color= "BLACK" > Bizler Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği öğrencileri olarak halihazırda yazılım dillerini öğrenen ve öğrenmeye devam eden, teknoloji meraklısı gençleriz. Yeni teknolojilere açığız ve geleceğe yön vermek istiyoruz. Okulumuzda bulunan Metaverse Araştırma Grubu (MvRG) ile son günlerde revaçta olan metaverse konusunda kendimizi geliştiriyoruz. Takım olarak amacımız; metaverse kavramını kullanarak hayatımızı kolaylaştıracak teknolojik ve yenilikçi içeriklere sahip projelere imza atmaktır. Bu açıdan sosyal faydayı gözeten ve engelli bireylerin erişebilirliklerini arttırabilecek bir proje fikri bizi heyecanlandırıyor.
 
 #
 
