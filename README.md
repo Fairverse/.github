@@ -1,4 +1,18 @@
 ## <font color="pink">Engelsiz Adil Evren (Fairverse):blush:
+## <font color= "RED"> ANİMASYONLAR
+[SAĞA DÖNME ANİMASYONU](https://youtu.be/0h8hvZsVoZ8 "Sağa dönme animasyonu")
+
+[SOLA DÖNME ANİMASYONU](https://youtu.be/IZbs8mHMog4 "Sola dönme animasyonu")
+
+[İLERİ GİTME ANİMASYONU](https://youtu.be/_WZcwKDqFUA "İleri gitme animasyonu")
+
+[DÖNME ANİMASYONU](https://youtu.be/NYCwgUyq0I8 "Dönme animasyonu")
+
+[EL SALLAMA ANİMASYONU](https://youtu.be/kql0C48YUuI "El sallama animasyonu")
+
+
+
+
 ## <font color="RED"> BİZ KİMİZ? :blush:
 
 #
