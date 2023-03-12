@@ -19,10 +19,7 @@
 ###  <font color="black"> Hakkıcan Bülüç - Bilgisayar Mühendisliği Öğrencisi  </font>     
 <img src="source/hakkı.jpg" width="150">
 
-###  <font color="black"> Enes Atalay - Bilgisayar Mühendisliği Öğrencisi   </font>   
-<img src="source/enes.jpg" width="150">
 
-#
 ## <font color="red"> Danışman Hocamız  </font> :blush:
 #
 ### <font color="black"> Dr. Enis Karaarslan  </font>
